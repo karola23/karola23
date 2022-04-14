@@ -2,6 +2,7 @@
 <br>
  👀 I’m interested in CSS,SCSS,JS,TS and React
  🌱 I’m currently learning EasyCode
+ <br>
 <strong>📫 How to reach me https://www.linkedin.com/in/karolina-ra%C5%BAniak-1a4b21225/</strong>
 <br>
 

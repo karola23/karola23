@@ -1,4 +1,4 @@
-<h1>Hi, I’m @karola23</h1>
+<h1>Hi, I’m Karolina Raźniak</h1>
 <br>
  👀 I’m interested in CSS,SCSS,JS,TS and React
  🌱 I’m currently learning EasyCode

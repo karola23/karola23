@@ -1,7 +1,5 @@
-<h1>Hi, I’m Karolina Raźniak</h1>
-<br>
- 👀 <p style="font-size: 2.0em;"><strong>Obecnie szukam swojej pierwszej pracy w IT jako Front-end Developer</strong></p>
-Zapraszam do zapoznania się z moim portfolio.
+
+ 
  I’m interested in CSS,SCSS,JS,TS and React
  🌱 I’m currently learning EasyCode
  <br>
@@ -13,15 +11,17 @@ karola23/karola23 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Cześć, jestem Ewelina!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <h1>Hi, I’m Karolina Raźniak</h1>
+<br>
 
 I cenię sobie niestandardowe rozwiązania. Zdolność szybkiego uczenia się, automatyzacja pracy, cierpliwość i samodzielność pozwalają mi odnaleźć się w programistycznym świecie. Każdy nowy problem jest dla mnie motywacją do rozwoju i daje mi okazję do poszerzania swoich horyzontów. W pracy koncentruję się na autentyczności, znaczeniu i estetyce.<br><br>
-
-👉 **Obecnie szukam swojej pierwszej pracy w IT jako Front-end Developer.**
+👀 <p style="font-size: 2.0em;"><strong>Obecnie szukam swojej pierwszej pracy w IT jako Front-end Developer</strong></p>
+Zapraszam do zapoznania się z moim portfolio.
+<!--👉 **Obecnie szukam swojej pierwszej pracy w IT jako Front-end Developer.**
 <br>
 Zapraszam do zapoznania się z moim portfolio. 
 👉 Zapraszam do zapoznania się z moim portfolio. 
-
+--->
 <br>
 ### Języki & Narzędzia:
 <p align="left"> 

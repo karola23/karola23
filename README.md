@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <h1>Hi, I’m Karolina Raźniak</h1>
 <br>
 
-⚠️Zawsze widzę świat w różowych barwach i nie ma zadania którego nie można rozwiązać.<br>
+⚠️Zawsze widzę świat w różowych barwach, nie ma zadania którego nie można rozwiązać.<br>
 👀 Jestem osobą zaangażowaną, lubiącą nowe wyzwania ,myślę że największym moim atutem jest to że nie mam żadnych zobowiązań a co za tym idzie jestem w stanie poświęcić cały czas na swoje marzenia(prace) bo czy może być coś piękniejszego niż kochać to co się robi?
  <p style="font-size: 2.0em;"><strong>Obecnie szukam swojej pierwszej pracy w IT jako Front-end Developer</strong></p>
 Zapraszam do zapoznania się z moim portfolio.

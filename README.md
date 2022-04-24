@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 Zapraszam do zapoznania się z moim portfolio.
 <!--👉 **Obecnie szukam swojej pierwszej pracy w IT jako Front-end Developer.**
 <br>
-Zapraszam do zapoznania się z moim portfolio. 
+:computer: Zapraszam do zapoznania się z moim portfolio. 
 👉 Zapraszam do zapoznania się z moim portfolio. 
 --->
 <br>
@@ -32,5 +32,5 @@ Zapraszam do zapoznania się z moim portfolio.
  <br>
  <br>
   
-:computer: <h2>Skontakuj się ze mną:</h2>
+<h2>Skontakuj się ze mną:</h2>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karolina-ra%C5%BAniak-1a4b21225/) 

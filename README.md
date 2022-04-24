@@ -33,4 +33,4 @@ Zapraszam do zapoznania się z moim portfolio.
  <br>
   
 <h2>Skontakuj się ze mną:</h2>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karolina-ra%C5%BAniak-1a4b21225/) 
+:computer: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karolina-ra%C5%BAniak-1a4b21225/) 

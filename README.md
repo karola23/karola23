@@ -1,8 +1,6 @@
 
  
- I’m interested in CSS,SCSS,JS,TS and React
- 🌱 I’m currently learning EasyCode
- <br>
+
 <strong>📫 How to reach me https://www.linkedin.com/in/karolina-ra%C5%BAniak-1a4b21225/</strong>
 <br>
 
@@ -44,8 +42,4 @@ Zapraszam do zapoznania się z moim portfolio.
  <br>
   
  ### :computer: Skontakuj się ze mną: 
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ewelina-mucha-378323233/) 
-<!---
-YerbaMatePL/YerbaMatePL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karolina-ra%C5%BAniak-1a4b21225/) 
